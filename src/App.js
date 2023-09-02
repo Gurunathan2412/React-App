@@ -18,8 +18,6 @@ function App() {
           <Route path='/services' exact  Component={Services}/>
           <Route path='/products' exact  Component={Products}/>
           <Route path='/signup' exact  Component={Signup}/>
-
-
         </Routes>
         <Footer />
 
